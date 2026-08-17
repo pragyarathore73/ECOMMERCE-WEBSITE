@@ -1,14 +1,9 @@
-# ECOMMERCE-WEBSITE
-A full-stack E-Commerce Website designed to provide a smooth and user-friendly online shopping experience. The application allows users to browse products, view product details, add items to their cart, and place orders.
+# MILANÉ — Full-Stack Fashion E-Commerce Platform
 
-🚀 Features
-🔐 User Registration & Login
-🛍️ Browse Products
-🔎 Product Search & Filtering
-📦 Product Details
-🛒 Add to Cart / Remove from Cart
-💳 Order & Checkout
-👤 User Profile
-📱 Responsive Design
-🔒 Secure Authentication
-⚡ Fast and Interactive UI
+## 📖 Table of Contents
+
+- [About the Project](#-about-the-project)
+- [✨ Key Features](#-key-features)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📁 Project Structure](#-project-structure)
+- [📸 Screenshots](#-screenshots)
